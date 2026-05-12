@@ -20,7 +20,7 @@ Un ***Entusiasta*** del **DESARROLLO FULL-STACK**, **CIBERSEGURIDAD** y **ANÁLI
 - 🎓 **Técnico en Programación de Software** (SENA, 2023).
 - 👨🏽‍💻 Estudiante de **Ingeniería de Sistemas** en la Universidad Libre.
 - 🌎 Nivel de Inglés: **B1 Intermediate** (Oxford Placement Test).
-- 💡 Aprendiendo **IA con Gemini** en Santander Open Academy y cursando **AWS Academy Cloud Foundations**.
+- 💡 Aprendiendo **Postman** de forma autonoma y cursando **AWS Academy Cloud Foundations**.
 - 💻 Usuario de **Dualboot**: Windows & Linux Mint.
 - 🌱 Aprendiendo **Docker** y apasionado por la **Ciberseguridad**.
 - 💬 ¡Pregúntame sobre cualquier cosa, me encanta ayudar!
